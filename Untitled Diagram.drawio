@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T14:36:24.810Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="c61BEh_EprUzARO-FdA7" version="13.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-20T14:40:26.565Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="cVmuth47D5cl5DNYTGWP" version="13.8.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Actual">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,7 +153,7 @@
         <mxCell id="rfnlGcpkdzYErw1_nGnr-32" value="Условимся, что объекты при удалении будут помечаться как удаленные, но все равно оставаться в системе.&lt;br&gt;Методы удаления затрагивать не будем, они будут однотипны" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="20" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3D1pl-3RAQfo5_xkP_K4-1" value="В таком варианте не понимаю, куда воткнуть&amp;nbsp;&lt;br&gt;&lt;span&gt;+listByDate(date): List&amp;lt;SkedItem&amp;gt;&lt;br&gt;&lt;/span&gt;Если воткнуть его в Clinic, то там будет метод с из бизнес-логики расписания. И это мне совсем не нравится.&lt;br&gt;А если в&amp;nbsp; SkedItem, то выглядит менее ужасно, разве что как статический метод..." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3D1pl-3RAQfo5_xkP_K4-1" value="В таком варианте не понимаю, куда воткнуть&amp;nbsp;&lt;br&gt;&lt;span&gt;+listByDate(date): List&amp;lt;SkedItem&amp;gt;&lt;br&gt;&lt;/span&gt;Если воткнуть его в Clinic, то там будет метод с из бизнес-логики Расписания. И это мне совсем не нравится.&lt;br&gt;А если в&amp;nbsp; SkedItem, то выглядит менее ужасно, разве что как статический метод..." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="670" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="3D1pl-3RAQfo5_xkP_K4-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3D1pl-3RAQfo5_xkP_K4-1" target="gz5u4yHDHs7ERX3W2ZZz-8">
