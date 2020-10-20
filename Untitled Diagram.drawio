@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T14:40:26.565Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="cVmuth47D5cl5DNYTGWP" version="13.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-20T15:04:54.229Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="_wtTZU2kiOIIAv8zEPme" version="13.8.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Actual">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
         <mxCell id="gz5u4yHDHs7ERX3W2ZZz-10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="gz5u4yHDHs7ERX3W2ZZz-8" vertex="1">
           <mxGeometry y="146" width="220" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="rfnlGcpkdzYErw1_nGnr-23" value="+Add(date, time, doctor, patient)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gz5u4yHDHs7ERX3W2ZZz-8" vertex="1">
+        <mxCell id="rfnlGcpkdzYErw1_nGnr-23" value="+add(date, time, doctor, patient)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gz5u4yHDHs7ERX3W2ZZz-8" vertex="1">
           <mxGeometry y="162" width="220" height="18" as="geometry" />
         </mxCell>
         <mxCell id="rfnlGcpkdzYErw1_nGnr-24" value="+changeDate(newDate, newTime)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gz5u4yHDHs7ERX3W2ZZz-8" vertex="1">
@@ -253,7 +253,7 @@
         <mxCell id="Q71p1MWhTe1LTBSPQIjX-19" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="Q71p1MWhTe1LTBSPQIjX-12">
           <mxGeometry y="146" width="220" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="Q71p1MWhTe1LTBSPQIjX-20" value="+Add(date, time, doctor, patient)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Q71p1MWhTe1LTBSPQIjX-12">
+        <mxCell id="Q71p1MWhTe1LTBSPQIjX-20" value="+add(date, time, doctor, patient)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Q71p1MWhTe1LTBSPQIjX-12">
           <mxGeometry y="162" width="220" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Q71p1MWhTe1LTBSPQIjX-21" value="+changeDate(newDate, newTime)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Q71p1MWhTe1LTBSPQIjX-12">
